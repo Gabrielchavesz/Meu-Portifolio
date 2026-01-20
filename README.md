@@ -1,2 +1,2 @@
-# Meu-Portifolio
-Conheça um pouco dos meus projetos e estudos.
+# Meu-Portifólio
+Conheça um pouco sobre mim, meus projetos e estudos.
